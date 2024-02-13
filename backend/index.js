@@ -9,7 +9,7 @@ const cors = require("cors");
 
 app.use(express.json());
 app.use(cors());
-
+origin:{"https://shopper-w68l.vercel.app"}
 // Database Connection With MongoDB
 mongoose.connect("mongodb+srv://panu_10:Yogita78@cluster0.f1xvqa8.mongodb.net/");
 
