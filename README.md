@@ -1,6 +1,6 @@
 # E-COMMERCE-MERN
 
-Link-> https://pranav-shopper.netlify.app/
+Link-> https://pranav-shopper.vercel.app/
  
 <img width="960" alt="Screenshot 2024-02-13 190423" src="https://github.com/panu-10/SHOPPER/assets/146022425/2ec85283-d543-44e7-b558-0a2bbac6ca8e">
 <img width="959" alt="Screenshot 2024-02-13 190502" src="https://github.com/panu-10/SHOPPER/assets/146022425/1dfb6acf-f32b-4f95-8e89-76ff6bfe9bd7">
